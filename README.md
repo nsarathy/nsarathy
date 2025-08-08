@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Neel Sarathy!
 ### Please Reach out if you're looking to collaborate!
 
+## [NeelSarathy.com](https://neelsarathy.com/)
+
 Welcome to my GitHub profile! I'm a passionate **Computer Science and Data Science** student at **Purdue University**, with a strong background in programming, data analysis, and web development. My goal is to leverage technology to solve meaningful problems and create impactful solutions.
 
 ---
