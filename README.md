@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science and Data Scien
 ### 📦 [Coffy - Local Embedded Database Engine](https://github.com/nsarathy/Coffy)
 - Unified local database engine with **NoSQL**, **SQL**, and **Graph Databases**
 - Features a fluent **Python DSL** with filtering, joins, and logical queries
+- Real World Application Example - [Tetris Arcade Machine](https://github.com/nsarathy/tetris-arcade-machine)
 
 ### 🌍 [TravelTrack - Travel Log Application](https://github.com/nsarathy/TravelTrack)
 - Progressive web app for travel logging
