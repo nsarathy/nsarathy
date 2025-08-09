@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science and Data Scien
 ---
 
 ## 🏆 Projects
-### 📦 [Coffy - Local Embedded Database Engine](https://pypi.org/project/coffy)
+### 📦 [Coffy - Local Embedded Database Engine](https://github.com/nsarathy/Coffy)
 - Unified local database engine with **NoSQL**, **SQL**, and **Graph Databases**
 - Features a fluent **Python DSL** with filtering, joins, and logical queries
 
@@ -40,9 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science and Data Scien
 ---
 
 ## 📚 Publications
-- **Limit of Detection of Raman Spectroscopy Using Polystyrene Particles from 25 to 1000 nm in Aqueous Suspensions**  
-  - Co-authored with Mayorga. C, et al  
-  - [Read the Publication](https://pubs.acs.org/doi/10.1021/acs.analchem.5c00182)
+- **List of Publications:** [Google Scholar Profile](https://scholar.google.com/citations?user=SbyYkuIAAAAJ&hl=en)
 
 ---
 
